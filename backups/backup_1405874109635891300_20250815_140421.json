@@ -1,0 +1,67 @@
+{
+  "guild_id": 1405874109635891300,
+  "backup_date": "2025-08-15T14:04:21.257980",
+  "clubs": {
+    "1405874109635891300_meow_fc": {
+      "name": "meow fc",
+      "budget": 1000000000.0,
+      "players": [
+        "1405874109635891300_kokex"
+      ],
+      "created_at": "2025-08-15T13:58:28.188512"
+    },
+    "1405874109635891300_barca": {
+      "name": "barca",
+      "budget": 0.0,
+      "players": [],
+      "created_at": "2025-08-15T14:03:58.306441"
+    },
+    "1405874109635891300_madrid": {
+      "name": "madrid",
+      "budget": 0.0,
+      "players": [],
+      "created_at": "2025-08-15T14:04:03.654734"
+    }
+  },
+  "players": {
+    "1405874109635891300_kokex": {
+      "name": "kokex",
+      "value": 1111111.0,
+      "club_id": "1405874109635891300_meow_fc",
+      "position": "gk",
+      "age": 22,
+      "contract_expires": null,
+      "created_at": "2025-08-15T14:03:12.457634"
+    }
+  },
+  "transfers": [
+    {
+      "player_id": "1405874109635891300_kokex",
+      "from_club": "1405874109635891300_barca",
+      "to_club": "1405874109635891300_madrid",
+      "amount": 50000000.0,
+      "date": "2025-08-15T13:26:01.371093"
+    },
+    {
+      "player_id": "1405874109635891300_vini_jr",
+      "from_club": null,
+      "to_club": "1405874109635891300_madrid",
+      "amount": 1222222222.0,
+      "date": "2025-08-15T13:36:44.067395"
+    },
+    {
+      "player_id": "1405874109635891300_kokex",
+      "from_club": "1405874109635891300_madrid",
+      "to_club": "1405874109635891300_madrid",
+      "amount": 100000000.0,
+      "date": "2025-08-15T13:38:57.266924"
+    },
+    {
+      "player_id": "1405874109635891300_mecha",
+      "from_club": null,
+      "to_club": "1405874109635891300_real_madrid",
+      "amount": 0.0,
+      "date": "2025-08-15T13:53:19.210782"
+    }
+  ]
+}
